@@ -1,14 +1,10 @@
 /*The following are selectors for my index file*/
-
-body {
-    background-color: #000000;
-}
 ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1
+    background-color: #f1f1f1;
 }
 
 li a {
@@ -34,10 +30,12 @@ li a:hover {
     margin: auto;
     position: relative;
 }
-img {
-    background-color: #000000
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 500000px;
-    height: 500000px;
+
+.color {
+    background-color: black;
+}
+.image {
+    background-color: #000000;
+    width: 800px;
+    height: 600px;
 }
