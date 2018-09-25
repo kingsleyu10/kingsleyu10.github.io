@@ -1,0 +1,39 @@
+body {
+	background-color: #F5F5F5;
+}
+h3 {
+	margin-top: 10px;
+	margin-bottom: 0px;
+	font-size: 22px;
+}
+.right {
+    position: absolute;
+    /*text-align: justify;*/
+    float: right;
+    right: 100px;
+}
+.center {
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+.font {
+	font-weight: 600;
+	overflow-y: hidden;
+}
+.normal {
+	font-weight: normal;
+	display: inline;
+}
+.div1 {
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    margin-left: 5px;
+}
+ul {
+	margin: auto;
+}
+.italic {
+	font-style: italic;
+}

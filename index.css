@@ -1,0 +1,42 @@
+/*The following are */
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1
+}
+
+li a {
+    display: inline-block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+body {
+    background-color: #000000;
+}
+img {
+    background-color: #f1f1f1
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,29 @@
+/*The following definitions are selectors to add styling to html file*/
+
+body {
+	background-color: #92a8d1;
+}
+/*CSS Selector for class*/
+.center {
+	text-align: center;
+    margin: auto;
+    position: relative;
+}
+
+h2 {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+/*CSS Selector for ID*/
+span#font {
+	font-size: 18px;
+	margin-right: 200px;
+	text-align: left;
+	font-weight: normal;
+}
+
+img {
+	width: 250px;
+	height: 250px;
+}
